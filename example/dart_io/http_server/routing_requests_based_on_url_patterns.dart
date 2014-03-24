@@ -5,7 +5,6 @@
 /// Use the `route` Pub package, and associate callbacks with URL patterns.
 
 import 'dart:io';
-import 'dart:async';
 
 import 'package:route/server.dart';
 import 'package:route/url_pattern.dart';

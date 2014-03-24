@@ -5,7 +5,6 @@
 /// Use the http Pub package, and create a VirtualDirectory to serve the
 /// request. Register an error handler using the `errorHandler` property.
 
-import 'dart:async';
 import 'dart:io';
 
 import 'package:http_server/http_server.dart' as http_server;

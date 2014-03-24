@@ -8,7 +8,6 @@
 
 library simple_http_server;
 
-import 'dart:async';
 import 'dart:io';
 import 'package:http_server/http_server.dart' show VirtualDirectory;
 
